@@ -23,7 +23,7 @@ Libraries used are:
 * seaborn
 
 # FILES NEEDED
-* Uploaded the files CSVs files that needed to be imported in the code, under name : ***Airbnb Seattle Data.zip
+* Uploaded the files CSVs files that needed to be imported in the code, under name : ***Airbnb Seattle Data.zip***
 
 # Useful links
 * Kaggle dataset: https://www.kaggle.com/datasets/airbnb/seattle
